@@ -1,0 +1,196 @@
+/* NAVBAR */
+.navbar{
+    background-color:gray;
+    color: white;
+    padding: 10px;
+    display: flex;
+    justify-content: end;
+}
+.navbar1{
+    display: flex;
+    text-align: center;
+    padding-right: 65%;
+}
+.navbar1 h1{
+    font-style: italic;
+}
+.navbar2 a{
+    color: white;
+    font-style: italic;
+    text-decoration: none;
+    padding: 10px;
+    
+}
+
+/* HOME */
+.home{
+    background-color:gainsboro;
+    height: 500px;
+    display: flex;
+    justify-content:space-between;
+}
+.home1 img{
+    margin-top: 50px;
+    margin-left: 150px;
+    border-radius: 10px;
+}
+.home1 h1{
+    padding-left: 170px;
+    font-style: italic;
+}
+.home1 button{
+    margin-left: 350px;
+    border-radius: 7px;
+    font-style: italic;
+}
+.home2 img{
+    margin-top: 80px;
+    margin-right: 100px;
+    border-radius: 10px;
+}
+/* ABOUT */
+.about{
+    background-color:gainsboro;
+    height: 500px;
+    display: flex;
+    justify-content:space-between;   
+}
+.about1 h1{
+    font-style: italic;
+    padding-left: 150px;
+    padding-top: 30px;
+}
+.about1 h3{
+    font-style: italic;
+    font-weight: normal
+}
+.about2 img{
+    margin-top: 80px;
+    margin-right: 100px;
+    border-radius: 10px;
+}
+.about1 button{
+    border-radius: 7px;
+    margin-left: 350px;
+}
+/* SERVICE */
+.service{
+    background-color: gainsboro;
+    height: 650px;
+}
+.service1 h2{
+    padding-left: 700px;
+    font-style: italic;
+}
+.service1 h3{
+    padding-left: 550px;
+    font-style: italic;
+}
+.service2 .list1{
+    display: flex;
+    justify-content:space-evenly;
+}
+.service2 .list2{
+    display: flex;
+    justify-content:space-evenly;
+}
+.service2 .list3{
+    display: flex;
+    justify-content:space-evenly;
+}
+.service2 .list4{
+    display: flex;
+    justify-content:space-evenly;
+}
+.service2 img{
+    height: 50px;
+    width: 50px;
+}
+.lt1:hover{
+    background-color: grey;
+}
+.lt2:hover{
+    background-color: grey;
+}
+.lt3:hover{
+    background-color: grey;
+}
+.lt4:hover{
+    background-color: grey;
+}
+.lt5:hover{
+    background-color: grey;
+}
+.lt6:hover{
+    background-color: grey;
+}
+.lt7:hover{
+    background-color: grey;
+}
+.lt8:hover{
+    background-color: grey;
+}
+.lt9:hover{
+    background-color: grey;
+}
+.lt10:hover{
+    background-color: grey;
+}
+.lt11:hover{
+    background-color: grey;
+}
+.lt12:hover{
+    background-color: grey;
+}
+.service3{
+    margin-top: 30px;
+    padding-left: 150px;
+}
+
+/* LOGIN */
+.login{
+    background-image: url("https://t3.ftcdn.net/jpg/03/23/88/08/360_F_323880864_TPsH5ropjEBo1ViILJmcFHJqsBzorxUB.jpg");
+    height: 370px;
+    width: 855px;
+    padding-top: 250px;
+    padding-left: 680px;
+}
+.login h1{
+    font-style: italic;
+    font-size: larger;
+    color: white;
+    padding-left: 60px;
+}
+.login input{
+    border-radius: 8px;
+    margin-top: 20px;
+    padding: 5px 10px 5px 10px;
+}
+.login button{
+    margin-left: 70px;
+    margin-top: 20px;
+}
+
+/* SIGN UP */
+.signup{
+    background-image: url("https://cdn.wallpapersafari.com/6/72/U9Hh3Y.jpg");
+    height: 420px;
+    width: 855px;
+    padding-top: 200px;
+    padding-left: 680px;
+}
+.signup h1{
+    font-style: italic;
+    font-size: larger;
+    color: white;
+    padding-left: 55px;
+}
+.signup input{
+    border-radius: 8px;
+    margin-top: 20px;
+    padding: 5px 10px 5px 10px;
+}
+.signup button{
+    margin-left: 70px;
+    margin-top: 20px;
+}
